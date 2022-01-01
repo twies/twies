@@ -3,7 +3,7 @@
 > twies.py
 
 ```
-<img align="left" src="https://cdn.discordapp.com/avatars/926847875034546176/914cf1c66f2e99ddb64d82fa76a58846.png?size=4096" alt="logo.png" width="200" />
+<img align="left" src="https://cdn.discordapp.com/attachments/914055554404614155/926872585667506196/Discord_copy.png" alt="logo.png" width="200" />
 
 ```py
 
