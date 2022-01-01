@@ -19,4 +19,4 @@ Languages  :  python
  
 ----------------
 ```
-![](https://hit.yhype.me/github/profile?user_id=96667547)
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
