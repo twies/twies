@@ -19,8 +19,4 @@ Languages  :  python
  
 ----------------
 ```
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=twies">
-</a>
-
 <img src="https://komarev.com/ghpvc/?username=twies&style=flat-square">
