@@ -9,6 +9,7 @@
 
 
 twies@github
+
 ----------------
 
       CPU  :  Intel i7
@@ -16,5 +17,5 @@ twies@github
 Languages  :  python
   Discord  :  926847875034546176 | $ twies#4564
  
-  
+----------------
 ```
