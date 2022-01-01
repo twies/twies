@@ -23,4 +23,4 @@ Languages  :  python
     <img src="https://komarev.com/ghpvc/?username=twies">
 </a>
 
-[![Github Followers](https://img.shields.io/github/followers/christianmods?style=for-the-badge)](https://github.com/ChristianMods)
+[![Github Followers](https://img.shields.io/github/views/twies?style=for-the-badge)](https://github.com/twies)
