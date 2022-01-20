@@ -15,7 +15,7 @@ twies@github
       CPU  :  Intel i7
       GPU  :  NVIDIA GTX 1660ti
 Languages  :  python
-  Discord  :  926847875034546176 | $ twies#4564
+  Discord  :  https://discord.gg/GAFBJECqge | twies#9210
  
 ----------------
 ```
